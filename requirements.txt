@@ -1,0 +1,4 @@
+jinja2==3.0.3
+great-expectations==0.17.0
+pyspark==3.3.2
+delta-spark==2.2.0
